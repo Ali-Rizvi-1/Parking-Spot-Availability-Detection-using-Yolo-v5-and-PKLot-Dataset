@@ -6,3 +6,6 @@ The PKLot dataset contains 12,416 images of parking lots extracted from surveila
 There are images on sunny, cloudy, and rainy days and the parking spaces are labeled as occupied or
 empty. We have converted the original annotations to a variety of standard object detection formats by
 enclosing a bounding box around the original dataset's rotated rectangle annotations.
+
+![Output Test Image1](https://github.com/Ali-Rizvi-1/Parking-Spot-Availability-Detection-using-Yolo-v5-and-PKLot-Dataset/blob/main/te1.jpg)
+![Output Test Image2](https://github.com/Ali-Rizvi-1/Parking-Spot-Availability-Detection-using-Yolo-v5-and-PKLot-Dataset/blob/main/te2.jpg)
